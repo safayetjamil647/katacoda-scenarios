@@ -6,7 +6,7 @@ Initially, your instance appears in the pending state, but changes to the runnin
 EC2-VPC
 The following example shows how to launch a t2.micro instance in the specified subnet of a VPC. Replace the italicized parameter values with your own.
 
-`aws ec2 run-instances --image-id ami-0b0ea68c435eb488d --security-groups default --instance-type t2.micro --count 1 --key-name my-key-pair.pem`
+`aws ec2 run-instances --image-id ami-0b0ea68c435eb488d --security-groups default --instance-type t2.micro --count 1 --key-name my-key-pair`
 
 List your instances
 You can use the AWS CLI to list your instances and view information about them. You can list all your instances, or filter the results based on the instances that you're interested in.

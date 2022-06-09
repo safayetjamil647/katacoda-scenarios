@@ -18,7 +18,7 @@ The following example shows sample values. Replace them with your own values as 
 Demo Input
 AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
 AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-Default region name [None]: us-west-2
-Default output format [None]: json
+Default region name [None]: us-east-1
+Default output format [None]: none
 
 Please Fillup the input from the AWS Resource Section

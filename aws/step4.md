@@ -5,7 +5,7 @@ Create you key pair by executing below command
     --key-format pem \
     --query "KeyMaterial" \
     --output text > my-key-pair.pem`
-    {{copy}}
+
 
 Make sure the aws cli installed properly
 
