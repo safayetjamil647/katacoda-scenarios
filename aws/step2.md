@@ -13,7 +13,7 @@ The AWS CLI stores this information in a profile (a collection of settings) name
 
 The following example shows sample values. Replace them with your own values as described in the following sections.
 
-`aws configure`{{execute}}
+`aws configure`{{copy}}
 
 Demo Input
 AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE

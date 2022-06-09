@@ -7,4 +7,4 @@ In a terminal window, use the ssh command to connect to the instance. You specif
 
 (Public DNS) To connect using your instance's public DNS name, enter the following command.
 
-ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-public-dns-name
+`ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-public-dns-name`{{copy}}
